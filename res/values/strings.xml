@@ -1,0 +1,72 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Loginpage</string>
+    <string name="forgot_password01">forgot password??</string>
+    <string name="new_user01">new user</string>
+    <string name="username01">username</string>
+    <string name="password01">password</string>
+    <string name="login01">login</string>
+    <string name="username02">username</string>
+    <string name="email01">email</string>
+    <string name="phone01">phone</string>
+    <string name="register01">reister</string>
+    <string name="welcome01">welcome</string>
+    <string name="todo01">TODO</string>
+    <string name="welcome02">welcome</string>
+    <string name="todo02">TODO</string>
+    <string name="hell0_there_i_am_Kalyan01">Hell0, There i am kalyan</string>
+    <string name="todo3">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="hell0_there_i_am_kalyan" />
+    <string name="re_enter_password01">re enter password</string>
+    <string name="full_name01">full name</string>
+    <string name="already_registered01">already registered</string>
+    <string name="ABOUT">About</string>
+    <string name="load_Insta">Load insta</string>
+    <string name="i_am_arimilli_mohan_kalyan_i_am_from_gvp_college_for_degree_and_pg_courses_my_hobbies_are_playing_cricket_watching_movies_badminton_web_surfing_i_am_form_west_godavari_district">I am ARIMILLI MOHAN KALYAN, I am from GVP College for Degree and PG Courses. My hobbies are playing cricket, watching movies, badminton, web surfing. I am form West Godavari district .</string>
+    <string name="load_facebook">Load Facebook</string>
+    <string name="title01">TITLE</string>
+    <string name="description01">description</string>
+    <string name="todo03">TODO</string>
+    <string name="textview01">TextView</string>
+    <string name="todo04">TODO</string>
+    <string name="course_catalog01">course catalog</string>
+    <string name="todo05">TODO</string>
+    <string name="scores01">Scores</string>
+    <string name="payments01">Payments</string>
+    <string name="todo06">TODO</string>
+    <string name="logout01">logout</string>
+    <string name="home01">home</string>
+    <string name="todo07">TODO</string>
+    <string name="todo08">TODO</string>
+    <string name="email">Email</string>
+    <string name="course">course</string>
+    <string name="name">name</string>
+    <string name="visit">Visit</string>
+    <string name="select_you_course">SELECT YOU COURSE</string>
+    <string name="profile">PROFILE</string>
+    <string-array name="programming_languages">
+    <item>javaScript</item>
+    <item>C</item>
+    <item>C++</item>
+    <item>Python</item>
+    <item>Swift</item>
+    <item>Java</item>
+    </string-array>
+    <string-array name="Description">
+        <item>Learn JavaScript</item>
+        <item>Learn C</item>
+        <item>want to build Games,Learn c++</item>
+        <item>Learn python</item>
+        <item>Learn Swift for ios</item>
+        <item>Learn Java </item>
+    </string-array>
+    <string-array name="website">
+        <item>https://www.tutorialspoint.com/javascript/index.htm</item>
+        <item>https://www.javatpoint.com/c-programming-language-tutorial</item>
+        <item>https://www.tutorialspoint.com/cplusplus/index.htm</item>
+        <item>https://www.w3schools.com/python/default.asp</item>
+        <item>https://www.tutorialspoint.com/swift/index.htm</item>
+        <item>https://www.javatpoint.com/java-tutorial</item>
+    </string-array>
+</resources>
